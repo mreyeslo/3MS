@@ -1,8 +1,4 @@
-<p>&nbsp;</p>
 
-<a href="https://directus.io" target="_blank" rel="noopener noreferrer"><img width="250" alt="Logo" src="https://user-images.githubusercontent.com/9141017/88821768-0dc99800-d191-11ea-8c66-09c55ab451a2.png"></a>
-
-<p>&nbsp;</p>
 
 ## Introduction
 
